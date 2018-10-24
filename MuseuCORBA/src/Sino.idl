@@ -1,6 +1,0 @@
-module SinoIDL{
-	interface Sino{
-		void tocarSino ();
-		void pararSino ();
-	};
-};

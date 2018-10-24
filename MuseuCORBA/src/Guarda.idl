@@ -1,6 +1,0 @@
-module GuardaIDL{
-	interface Guarda{
-		void entrarVisitante ();
-		void sairVisitante ();
-	};
-};

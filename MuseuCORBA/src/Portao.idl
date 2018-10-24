@@ -1,8 +1,0 @@
-module PortaoIDL{
-	interface Portao{
-		void entrarVisitante ();
-		void sairVisitante ();
-		void amanhecer ();
-		void anoitecer ();
-	};
-};
